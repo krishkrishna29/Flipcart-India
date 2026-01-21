@@ -64,6 +64,12 @@ Flipkart_India/
 4. Tick **Force Update of Snapshots/Releases** (recommended)
 5. Click **OK**
 
+## ✅ Step 3: Run the TestNG Suite (testng.xml)
+1. Locate the file:
+2. Right click on **testng.xml**
+3. Click **Run As → TestNG Suite**
+4. The execution will start and you can view logs in the **Console**
+
 👤 Author
 Krishna Prakash Isabi
 📧 Email: krishnaip733@gmail.com
