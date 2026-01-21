@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicked first product successfully]]>
+    </line>
+    <line>
+      <![CDATA[Print_Available_offershas been TestSuccess ]]>
+    </line>
+    <line>
+      <![CDATA[Product is available Add to Cart is present & enabled.]]>
+    </line>
+    <line>
+      <![CDATA[Product_is_Not_Availablehas been TestSuccess ]]>
+    </line>
+    <line>
+      <![CDATA[Product available - Added to cart successfully]]>
+    </line>
+    <line>
+      <![CDATA[Product_is_Available_AddToCarthas been TestSuccess ]]>
+    </line>
+    <line>
+      <![CDATA[closeBrowser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-01-21T12:22:57 IST" name="Suite" finished-at="2026-01-21T12:23:31 IST" duration-ms="33988">
+    <groups>
+    </groups>
+    <test started-at="2026-01-21T12:22:57 IST" name="Test" finished-at="2026-01-21T12:23:31 IST" duration-ms="33988">
+      <class name="com.flipcart.india.testscript.AutomationTask">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.flipcart.india.testscript.AutomationTask@139982de]" started-at="2026-01-21T12:22:57 IST" name="openBrowser" finished-at="2026-01-21T12:23:01 IST" duration-ms="3713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="Print_Available_offers()[pri:1, instance:com.flipcart.india.testscript.AutomationTask@139982de]" started-at="2026-01-21T12:23:01 IST" name="Print_Available_offers" finished-at="2026-01-21T12:23:23 IST" duration-ms="22119" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked first product successfully]]>
+            </line>
+            <line>
+              <![CDATA[Print_Available_offershas been TestSuccess ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Print_Available_offers -->
+        <test-method signature="Product_is_Not_Available()[pri:2, instance:com.flipcart.india.testscript.AutomationTask@139982de]" started-at="2026-01-21T12:23:23 IST" name="Product_is_Not_Available" finished-at="2026-01-21T12:23:28 IST" duration-ms="5400" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Product is available Add to Cart is present & enabled.]]>
+            </line>
+            <line>
+              <![CDATA[Product_is_Not_Availablehas been TestSuccess ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Product_is_Not_Available -->
+        <test-method signature="Product_is_Available_AddToCart()[pri:3, instance:com.flipcart.india.testscript.AutomationTask@139982de]" started-at="2026-01-21T12:23:28 IST" name="Product_is_Available_AddToCart" finished-at="2026-01-21T12:23:30 IST" duration-ms="2309" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Product available - Added to cart successfully]]>
+            </line>
+            <line>
+              <![CDATA[Product_is_Available_AddToCarthas been TestSuccess ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Product_is_Available_AddToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.flipcart.india.testscript.AutomationTask@139982de]" started-at="2026-01-21T12:23:30 IST" name="closeBrowser" finished-at="2026-01-21T12:23:31 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.flipcart.india.testscript.AutomationTask -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

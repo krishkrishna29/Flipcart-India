@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.flipcart.india.testscript.AutomationTask">
+        <methods>
+          <include name="Print_Available_offers"/>
+          <include name="closeBrowser"/>
+          <include name="Product_is_Not_Available"/>
+          <include name="Product_is_Available_AddToCart"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- com.flipcart.india.testscript.AutomationTask -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
