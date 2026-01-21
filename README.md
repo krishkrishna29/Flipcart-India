@@ -50,16 +50,21 @@ Flipkart_India/
 # ▶ How to Run the Project (Detailed)
 
 ## Step 1: Import Project from GitHub (Clone in Eclipse)
-
 1. Open **Eclipse IDE**
 2. Click **File → Import**
 3. Select **Git → Projects from Git**, then click **Next**
 4. Select **Clone URl**, then click **Next**
 5. In the **URI** field, paste the repository URL: https://github.com/krishkrishna29/Flipcart-India.git
-6. Click on Next....... 
+6. Click on Next.......
+
+## Step 2: Update Maven Project
+1. Right click on the project in **Package Explorer**
+2. Click **Maven**
+3. Select **Update Project...**
+4. Tick **Force Update of Snapshots/Releases** (recommended)
+5. Click **OK**
 
 👤 Author
 Krishna Prakash Isabi
 📧 Email: krishnaip733@gmail.com
-📞 Contact: 6360435780
 
