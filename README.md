@@ -3,26 +3,26 @@
 This project is an **Automation Testing Framework** for the Flipkart India website built using **Selenium WebDriver, Java, TestNG, and Maven**.  
 It automates key user flows like searching products, applying filters, selecting products, validating availability, adding to cart, and viewing offers.
 ---
-## 📌 Project Features
+## Project Features
 
-✅ Launch Flipkart website  
-✅ Search product from Search bar  
-✅ Apply Filters  
+1 Launch Flipkart website  
+2 Search product from Search bar  
+3 Apply Filters  
 - Brand (Example: boAt)  
 - Customer Ratings (4★ & above)  
 - Price Sorting (Low to High)  
 
-✅ Select 1st product from search results  
-✅ Switch to newly opened tab  
-✅ Click View More Offers & Print offers  
-✅ Validate Product Availability  
-✅ Add to Cart / Go to Cart handling  
-✅ Capture Screenshots on failures  
-✅ Generate Automation Reports
+4 Select 1st product from search results  
+5 Switch to newly opened tab  
+6 Click View More Offers & Print offers  
+7 Validate Product Availability  
+8 Add to Cart / Go to Cart handling  
+9 Capture Screenshots on failures  
+10 Generate Automation Reports
 
 ---
 
-## 🛠 Tech Stack Used
+## Tech Stack Used
 
 - **Language:** Java  
 - **Automation Tool:** Selenium WebDriver  
@@ -32,7 +32,7 @@ It automates key user flows like searching products, applying filters, selecting
 - **Browser:** Chrome  
 - **Version Control:** Git & GitHub  
 ---
-## 📂 Project Structure
+## Project Structure
 
 Flipkart_India/
 ├── src/main/java/
@@ -64,13 +64,13 @@ Flipkart_India/
 4. Tick **Force Update of Snapshots/Releases** (recommended)
 5. Click **OK**
 
-## ✅ Step 3: Run the TestNG Suite (testng.xml)
+## Step 3: Run the TestNG Suite (testng.xml)
 1. Locate the file:
 2. Right click on **testng.xml**
 3. Click **Run As → TestNG Suite**
 4. The execution will start and you can view logs in the **Console**
 
-👤 Author
+Author
 Krishna Prakash Isabi
-📧 Email: krishnaip733@gmail.com
+Email: krishnaip733@gmail.com
 
